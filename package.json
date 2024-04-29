@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/somabc/my-portfolio#readme",
   "dependencies": {
-    "react": "^18.2.0",
+    "react": "^15.7.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
